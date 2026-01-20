@@ -1,0 +1,9 @@
+{
+	"name": "browesdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a2f65e0-4a26-4d9f-8f2a-73e7d40ebbaa",
+		"tenantId": "68f22412-8922-4638-96fb-d76a8dd4ad37"
+	}
+}
